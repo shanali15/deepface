@@ -15,3 +15,7 @@ deepface/basemodels/__pycache__/*
 deepface/extendedmodels/__pycache__/*
 deepface/subsidiarymodels/__pycache__/*
 tests/dataset/*.pkl
+project/ew/nf/*.jpg
+project/Data/Nafeel/*.jpg
+project/Data/Shan/*.jpg
+*.jpg
